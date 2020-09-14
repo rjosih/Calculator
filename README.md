@@ -1,4 +1,9 @@
 # Calculator
+A calculator in the terminal
+
+## Get started
+`dotnet run`
+
 Helping another friend with c#
 
 ## What changes I have done
@@ -8,7 +13,19 @@ Helping another friend with c#
 4) Have created an array filled with the menu choices to avoid the DRY (don't repeat yourself). Also used the printing method to print the values in the loop.
 5) Good to be consistent. Always use "" instead of ''.
 6) Also, good to know: WriteLine prints the whole line while Write only prints the string data and can end up on the same line. 
-I see many /n which Console.WriteLine provides it "for free" (lol).
+I see many /n which Console.WriteLine provides it "for free" (lol). 
+
+Console.WriteLine()'s output will be:
+
+`\n + text + \n`
+
+`\n + text + \n`
+
+`\n + text + \n`
+
+when WriteLine()'s output will be 
+
+text + text + text 
 
 Hejdå Jalle hoppas du lärde dig något xoxo
 
