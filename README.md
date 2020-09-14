@@ -4,8 +4,6 @@ A calculator in the terminal
 ## Get started
 `dotnet run`
 
-Helping another friend with c#
-
 ## What changes I have done
 1) Saved most of the strings in variables. Not liking using "raw strings" in the application.
 2) Alla variables are on top of the methods.
@@ -23,7 +21,7 @@ Console.WriteLine()'s output will be:
 
 `\n + text 
 
-when Console.WriteLine()'s output will be 
+when Console.Write()'s output will be 
 
 text + text + text 
 
