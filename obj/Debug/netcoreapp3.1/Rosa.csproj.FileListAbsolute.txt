@@ -1,0 +1,12 @@
+/Users/rosaekstrom/programming/Jalle/Rosa/bin/Debug/netcoreapp3.1/Rosa.deps.json
+/Users/rosaekstrom/programming/Jalle/Rosa/bin/Debug/netcoreapp3.1/Rosa.runtimeconfig.json
+/Users/rosaekstrom/programming/Jalle/Rosa/bin/Debug/netcoreapp3.1/Rosa.runtimeconfig.dev.json
+/Users/rosaekstrom/programming/Jalle/Rosa/bin/Debug/netcoreapp3.1/Rosa.dll
+/Users/rosaekstrom/programming/Jalle/Rosa/bin/Debug/netcoreapp3.1/Rosa.pdb
+/Users/rosaekstrom/programming/Jalle/Rosa/obj/Debug/netcoreapp3.1/Rosa.csprojAssemblyReference.cache
+/Users/rosaekstrom/programming/Jalle/Rosa/obj/Debug/netcoreapp3.1/Rosa.AssemblyInfoInputs.cache
+/Users/rosaekstrom/programming/Jalle/Rosa/obj/Debug/netcoreapp3.1/Rosa.AssemblyInfo.cs
+/Users/rosaekstrom/programming/Jalle/Rosa/obj/Debug/netcoreapp3.1/Rosa.csproj.CoreCompileInputs.cache
+/Users/rosaekstrom/programming/Jalle/Rosa/obj/Debug/netcoreapp3.1/Rosa.dll
+/Users/rosaekstrom/programming/Jalle/Rosa/obj/Debug/netcoreapp3.1/Rosa.pdb
+/Users/rosaekstrom/programming/Jalle/Rosa/obj/Debug/netcoreapp3.1/Rosa.genruntimeconfig.cache
