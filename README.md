@@ -17,13 +17,13 @@ I see many /n which Console.WriteLine provides it "for free" (lol).
 
 Console.WriteLine()'s output will be:
 
-`\n + text + \n`
+`\n + text 
 
-`\n + text + \n`
+`\n + text 
 
-`\n + text + \n`
+`\n + text 
 
-when WriteLine()'s output will be 
+when Console.WriteLine()'s output will be 
 
 text + text + text 
 
